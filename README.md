@@ -1,1 +1,1 @@
-# js1
+# Todo Application in Angular.js + Sails.js
